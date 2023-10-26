@@ -3,12 +3,16 @@
     font-size: 16px;
 }
 
-body {
+body
+
+ {
     background-color: rgba(226, 143, 252, 0.822);
 
 }
 
-main {
+main 
+
+{
     background-color: black;
     width: 500px;
     margin: auto;
